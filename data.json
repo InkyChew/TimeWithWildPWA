@@ -1,0 +1,42 @@
+{
+    "resource": [
+        {
+            "title": "Shopee",
+            "desc": "蝦皮\n優惠中",
+            "image": "shopee-icon.png",
+            "link": "https://affiliate.shopee.com"
+        },
+        {
+            "title": "Klook",
+            "desc": "",
+            "image": "klook-icon.png",
+            "link": "https://www.klook.com"
+        },
+        {
+            "title": "Agoda",
+            "desc": "",
+            "image": "agoda-icon.png",
+            "link": "https://www.agoda.com"
+        },
+        {
+            "title": "Booking.com",
+            "desc": "",
+            "image": "/images/bookingcom.svg",
+            "link": "https://www.booking.com"
+        },
+        {
+            "title": "野餐計畫表",
+            "desc": "野餐計畫表免費領取",
+            "image": "booking-icon.png",
+            "link": "https://www.booking.com"
+        }
+    ],
+    "latest": [
+        {
+            "title": "後山海景咖啡，虎仔山景觀餐廳，賞夕陽夜景、俯瞰基隆港！",
+            "desc": "",
+            "image": "https://timewithwild.tw/images/A014-view.webp",
+            "link": "https://timewithwild.tw/articles/picnic-place/keelung-mountain-sea-coffee"
+        }
+    ]
+}
